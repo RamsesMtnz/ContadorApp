@@ -19,7 +19,8 @@
         android:id="@+id/campo_Conteo"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="0" />
+        android:inputType=""
+        android:text="@string/texto_label" />
 
     <LinearLayout
         android:layout_width="match_parent"

@@ -3,4 +3,5 @@
     <string name="etiqueta_conteo">Conteo:</string>
     <string name="texto_boton_contar">Contar:</string>
     <string name="texto_boton_reiniciar">Reiniciar</string>
+    <string name="texto_label">0</string>
 </resources>
