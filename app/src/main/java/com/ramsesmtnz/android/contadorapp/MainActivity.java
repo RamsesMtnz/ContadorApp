@@ -36,6 +36,5 @@ public class MainActivity extends AppCompatActivity {
                 mCampocontar.setText("0");
             }
         });
-
     }
 }
